@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1707317984 source:c:\users\gamemaster\desktop\linkedlist\main.c
+	<stdio.h>
+	"sllheader.h"
+
+1707316506 source:c:\users\gamemaster\desktop\linkedlist\sllimplementation.c
+	<stdio.h>
+	"sllheader.h"
+
+1707317771 c:\users\gamemaster\desktop\linkedlist\sllheader.h
+	<stdio.h>
+	<stdlib.h>
+
+1707317984 source:c:\users\gamemaster\desktop\to be passed\mativoco_he1_singlyll\main.c
+	<stdio.h>
+	"sllheader.h"
+
+1707317771 c:\users\gamemaster\desktop\to be passed\mativoco_he1_singlyll\sllheader.h
+	<stdio.h>
+	<stdlib.h>
+
+1707318119 source:c:\users\gamemaster\desktop\to be passed\mativoco_he1_singlyll\sllimplementation.c
+	<stdio.h>
+	<stdlib.h>
+	"sLLheader.h"
+

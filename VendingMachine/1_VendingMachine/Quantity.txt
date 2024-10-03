@@ -1,0 +1,4 @@
+Candy 10 100
+Chips 15 100
+Cookies 15 100
+Soda 25 100

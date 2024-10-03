@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1709997625 source:c:\users\jacob\downloads\college cpe1\2nd semester\projects\test\3_searching\list.c
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"list.h"
+
+1709997627 c:\users\jacob\downloads\college cpe1\2nd semester\projects\test\3_searching\list.h
+
+1709997909 source:c:\users\jacob\downloads\college cpe1\2nd semester\projects\test\3_searching\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"list.h"
+	"search.h"
+
+1709997626 c:\users\jacob\downloads\college cpe1\2nd semester\projects\test\3_searching\search.h
+	<stdbool.h>
+	"list.h"
+
+1709999726 source:c:\users\jacob\downloads\college cpe1\2nd semester\projects\test\3_searching\search.c
+	<stddef.h>
+	"search.h"
+	"list.h"
+

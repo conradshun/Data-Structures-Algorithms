@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1707816456 source:d:\01_workspace\02_programming\programming-workspace\data structures and algorithm 1202lf\project files\team3_statistician\main.c
+	"header.h"
+
+1707810725 d:\01_workspace\02_programming\programming-workspace\data structures and algorithm 1202lf\project files\team3_statistician\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1707818209 source:d:\01_workspace\02_programming\programming-workspace\data structures and algorithm 1202lf\project files\team3_statistician\operation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"header.h"
+
+1707816436 source:d:\01_workspace\02_programming\programming-workspace\data structures and algorithm 1202lf\project files\team3_statistician\stats.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"header.h"
+

@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1710942489 source:c:\users\jacob\downloads\college cpe1\2nd semester\projects\test\6_stack\6_stack\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1710942490 c:\users\jacob\downloads\college cpe1\2nd semester\projects\test\6_stack\6_stack\stack.h
+
+1710942418 source:c:\users\jacob\downloads\college cpe1\2nd semester\projects\test\6_stack\6_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"convert.h"
+
+1710942490 c:\users\jacob\downloads\college cpe1\2nd semester\projects\test\6_stack\6_stack\convert.h
+
+1710942490 source:c:\users\jacob\downloads\college cpe1\2nd semester\projects\test\6_stack\6_stack\convert.c
+	<stdio.h>
+	"convert.h"
+	"stack.h"
+
+1710946885 source:c:\users\user\documents\don king's codes\6_stack\convert.c
+	<stdio.h>
+	"convert.h"
+	"stack.h"
+
+1710946988 c:\users\user\documents\don king's codes\6_stack\convert.h
+
+1710946952 c:\users\user\documents\don king's codes\6_stack\stack.h
+
+1710946536 source:c:\users\user\documents\don king's codes\6_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"convert.h"
+
+1710946741 source:c:\users\user\documents\don king's codes\6_stack\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+

@@ -1,0 +1,211 @@
+# depslib dependency file v1.0
+1706572635 source:c:\users\user6969\desktop\codeblocks\1_vendingmachine\cashregister.c
+	"vending.h"
+	"cashregister.h"
+	"dispenser.h"
+
+1706572635 c:\users\user6969\desktop\codeblocks\1_vendingmachine\vending.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1706594311 c:\users\user6969\desktop\codeblocks\1_vendingmachine\cashregister.h
+	"vending.h"
+
+1706572635 c:\users\user6969\desktop\codeblocks\1_vendingmachine\dispenser.h
+	"dispenser.h"
+	"cashregister.h"
+
+1706572635 source:c:\users\user6969\desktop\codeblocks\1_vendingmachine\dispenser.c
+	"vending.h"
+	"cashregister.h"
+	"dispenser.h"
+
+1706572635 source:c:\users\user6969\desktop\codeblocks\1_vendingmachine\vending.c
+	"vending.h"
+	"cashregister.h"
+	"dispenser.h"
+
+1706572671 source:c:\users\user6969\desktop\codeblocks\1_vendingmachine\main.c
+	<stdio.h>
+	"vending.h"
+	"cashregister.h"
+	"dispenser.h"
+
+1706594526 source:c:\users\user6969\desktop\codeblocks\1_vendingmachine\1_vendingmachine\main.c
+	<stdio.h>
+	"vending.h"
+	"cashregister.h"
+	"dispenser.h"
+
+1706594526 c:\users\user6969\desktop\codeblocks\1_vendingmachine\1_vendingmachine\vending.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1706594526 c:\users\user6969\desktop\codeblocks\1_vendingmachine\1_vendingmachine\cashregister.h
+	"vending.h"
+
+1706594522 c:\users\user6969\desktop\codeblocks\1_vendingmachine\1_vendingmachine\dispenser.h
+	"dispenser.h"
+	"cashregister.h"
+
+1706625273 source:c:\users\user6969\desktop\codeblocks\1_vendingmachine\1_vendingmachine\vending.c
+	"vending.h"
+	"cashregister.h"
+	"dispenser.h"
+
+1706625062 source:c:\users\user6969\desktop\codeblocks\1_vendingmachine\1_vendingmachine\cashregister.c
+	"vending.h"
+	"cashregister.h"
+	"dispenser.h"
+
+1706625062 source:c:\users\user6969\desktop\codeblocks\1_vendingmachine\1_vendingmachine\dispenser.c
+	"vending.h"
+	"cashregister.h"
+	"dispenser.h"
+
+1706880523 source:c:\users\jacob\downloads\college cpe1\1_vendingmachine\1_vendingmachine\cashregister.c
+	"cashregister.h"
+	"vending.h"
+	"dispenser.h"
+
+1706879937 c:\users\jacob\downloads\college cpe1\1_vendingmachine\1_vendingmachine\vending.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1706878994 c:\users\jacob\downloads\college cpe1\1_vendingmachine\1_vendingmachine\cashregister.h
+	"vending.h"
+
+1706876630 c:\users\jacob\downloads\college cpe1\1_vendingmachine\1_vendingmachine\dispenser.h
+	"dispenser.h"
+	"cashregister.h"
+
+1706886960 source:c:\users\jacob\downloads\college cpe1\1_vendingmachine\1_vendingmachine\dispenser.c
+	"vending.h"
+	"cashregister.h"
+	"dispenser.h"
+
+1706879955 source:c:\users\jacob\downloads\college cpe1\1_vendingmachine\1_vendingmachine\main.c
+	<stdio.h>
+	"vending.h"
+	"dispenser.h"
+	"cashregister.h"
+
+1706880835 source:c:\users\jacob\downloads\college cpe1\1_vendingmachine\1_vendingmachine\vending.c
+	"vending.h"
+	"cashregister.h"
+	"dispenser.h"
+
+1707063074 source:c:\users\jacob\downloads\college cpe1\1_vendingmachine\1_vendingmachineupdate\1_vendingmachine\cashregister.c
+	"cashregister.h"
+	"vending.h"
+	"dispenser.h"
+
+1707063078 c:\users\jacob\downloads\college cpe1\1_vendingmachine\1_vendingmachineupdate\1_vendingmachine\cashregister.h
+	"vending.h"
+
+1707053621 c:\users\jacob\downloads\college cpe1\1_vendingmachine\1_vendingmachineupdate\1_vendingmachine\vending.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1707053423 c:\users\jacob\downloads\college cpe1\1_vendingmachine\1_vendingmachineupdate\1_vendingmachine\dispenser.h
+	"dispenser.h"
+	"cashregister.h"
+
+1707063186 source:c:\users\jacob\downloads\college cpe1\1_vendingmachine\1_vendingmachineupdate\1_vendingmachine\vending.c
+	"vending.h"
+	"cashregister.h"
+	"dispenser.h"
+
+1707059996 source:c:\users\jacob\downloads\college cpe1\1_vendingmachine\1_vendingmachineupdate\1_vendingmachine\main.c
+	<stdio.h>
+	"vending.h"
+	"dispenser.h"
+	"cashregister.h"
+
+1707059618 source:c:\users\jacob\downloads\college cpe1\1_vendingmachine\1_vendingmachineupdate\1_vendingmachine\dispenser.c
+	"vending.h"
+	"cashregister.h"
+	"dispenser.h"
+
+1707090166 source:z:\downloads\1_vendingmachine_1\1_vendingmachine\cashregister.c
+	"cashregister.h"
+	"vending.h"
+	"dispenser.h"
+
+1707090167 z:\downloads\1_vendingmachine_1\1_vendingmachine\cashregister.h
+	"vending.h"
+
+1707090168 z:\downloads\1_vendingmachine_1\1_vendingmachine\vending.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1707090167 z:\downloads\1_vendingmachine_1\1_vendingmachine\dispenser.h
+	"dispenser.h"
+	"cashregister.h"
+
+1707090227 source:z:\downloads\1_vendingmachine_1\1_vendingmachine\dispenser.c
+	"vending.h"
+	"cashregister.h"
+	"dispenser.h"
+
+1707092353 source:z:\downloads\1_vendingmachine_1\1_vendingmachine\main.c
+	<stdio.h>
+	"vending.h"
+	"dispenser.h"
+	"cashregister.h"
+
+1707094144 source:z:\downloads\1_vendingmachine_1\1_vendingmachine\vending.c
+	"vending.h"
+	"cashregister.h"
+	"dispenser.h"
+
+1707131328 source:c:\users\jacob\downloads\college cpe1\1_vendingmachineupdated\1_vendingmachine\cashregister.c
+	"cashregister.h"
+	"vending.h"
+	"dispenser.h"
+
+1707131328 c:\users\jacob\downloads\college cpe1\1_vendingmachineupdated\1_vendingmachine\cashregister.h
+	"vending.h"
+
+1707131328 c:\users\jacob\downloads\college cpe1\1_vendingmachineupdated\1_vendingmachine\vending.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1707131328 c:\users\jacob\downloads\college cpe1\1_vendingmachineupdated\1_vendingmachine\dispenser.h
+	"dispenser.h"
+	"cashregister.h"
+
+1707131452 source:c:\users\jacob\downloads\college cpe1\1_vendingmachineupdated\1_vendingmachine\dispenser.c
+	"vending.h"
+	"cashregister.h"
+	"dispenser.h"
+
+1707131328 source:c:\users\jacob\downloads\college cpe1\1_vendingmachineupdated\1_vendingmachine\main.c
+	<stdio.h>
+	"vending.h"
+	"dispenser.h"
+	"cashregister.h"
+
+1707131415 source:c:\users\jacob\downloads\college cpe1\1_vendingmachineupdated\1_vendingmachine\vending.c
+	"vending.h"
+	"cashregister.h"
+	"dispenser.h"
+
