@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1715719797 source:c:\users\gamemaster\desktop\cpe 2023\second semeste\cpe\fuckk\b-tree_final\b-tree.c
+	<stdio.h>
+	<stdlib.h>
+	"b-tree.h"
+
+1715719797 c:\users\gamemaster\desktop\cpe 2023\second semeste\cpe\fuckk\b-tree_final\b-tree.h
+
+1715720072 source:c:\users\gamemaster\desktop\cpe 2023\second semeste\cpe\fuckk\b-tree_final\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+
+1715720056 c:\users\gamemaster\desktop\cpe 2023\second semeste\cpe\fuckk\b-tree_final\linkedlist.h
+
+1715720087 source:c:\users\gamemaster\desktop\cpe 2023\second semeste\cpe\fuckk\b-tree_final\main.c
+	<stdio.h>
+	"b-tree.h"
+	"linkedlist.h"
+

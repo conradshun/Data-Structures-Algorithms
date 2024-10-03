@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1710943057 source:c:\users\jacob\downloads\college cpe1\2nd semester\projects\test\5_queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"queue.h"
+
+1710943148 c:\users\jacob\downloads\college cpe1\2nd semester\projects\test\5_queue\queue.h
+	"singly.h"
+
+1710943148 c:\users\jacob\downloads\college cpe1\2nd semester\projects\test\5_queue\singly.h
+
+1710942980 source:c:\users\jacob\downloads\college cpe1\2nd semester\projects\test\5_queue\singly.c
+	<stdio.h>
+	<stdlib.h>
+	"singly.h"
+	"queue.h"
+
+1710943110 source:c:\users\jacob\downloads\college cpe1\2nd semester\projects\test\5_queue\queue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"queue.h"
+
+1710945436 source:c:\users\user\documents\don king's codes\5_queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"queue.h"
+
+1710946088 c:\users\user\documents\don king's codes\5_queue\queue.h
+	"singly.h"
+
+1710946042 c:\users\user\documents\don king's codes\5_queue\singly.h
+
+1710945951 source:c:\users\user\documents\don king's codes\5_queue\queue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"queue.h"
+
+1710945659 source:c:\users\user\documents\don king's codes\5_queue\singly.c
+	<stdio.h>
+	<stdlib.h>
+	"singly.h"
+	"queue.h"
+

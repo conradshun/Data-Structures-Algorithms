@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1715175779 source:c:\users\gamemaster\desktop\cpe 2023\second semeste\cpe\fuckk\hash table\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operations.h"
+
+1715175780 c:\users\gamemaster\desktop\cpe 2023\second semeste\cpe\fuckk\hash table\operations.h
+
+1715175779 source:c:\users\gamemaster\desktop\cpe 2023\second semeste\cpe\fuckk\hash table\operations.c
+	<stdio.h>
+	<stdlib.h>
+	"operations.h"
+

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1707657603 source:c:\users\gamemaster\desktop\cpe 2023\second semeste\cpe\fuckk\doublylinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dLLheader.h"
+
+1707657648 c:\users\gamemaster\desktop\cpe 2023\second semeste\cpe\fuckk\doublylinkedlist\dllheader.h
+	<stdio.h>
+	<stdlib.h>
+
+1707657942 source:c:\users\gamemaster\desktop\cpe 2023\second semeste\cpe\fuckk\doublylinkedlist\dllimplementation.c
+	<stdio.h>
+	<stdlib.h>
+	"dLLheader.h"
+
+1707739630 source:c:\users\gamemaster\desktop\to be passed\doublylinkedlist\dllimplementation.c
+	<stdio.h>
+	<stdlib.h>
+	"dLLheader.h"
+
+1707739640 c:\users\gamemaster\desktop\to be passed\doublylinkedlist\dllheader.h
+	<stdio.h>
+	<stdlib.h>
+
+1707739287 source:c:\users\gamemaster\desktop\to be passed\doublylinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dLLheader.h"
+

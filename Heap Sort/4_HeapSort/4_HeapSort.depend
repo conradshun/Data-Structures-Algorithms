@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1709646601 source:c:\users\jacob\downloads\college cpe1\2nd semester\unit 4\arara\4_heapsort\list.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"list.h"
+
+1709645189 c:\users\jacob\downloads\college cpe1\2nd semester\unit 4\arara\4_heapsort\list.h
+
+1709645186 source:c:\users\jacob\downloads\college cpe1\2nd semester\unit 4\arara\4_heapsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"list.h"
+	"heapsort.h"
+
+1709645222 c:\users\jacob\downloads\college cpe1\2nd semester\unit 4\arara\4_heapsort\heapsort.h
+
+1709645179 source:c:\users\jacob\downloads\college cpe1\2nd semester\unit 4\arara\4_heapsort\heapsort.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"list.h"
+	"heapsort.h"
+
